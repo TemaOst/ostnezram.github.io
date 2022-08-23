@@ -1,0 +1,84 @@
+.container {
+    height: 100vh;
+    width: 50vw;
+    
+    background-color: grey;
+    background-size: cover;
+    text-align: center;
+    border-right: 35px solid rgb(40, 82, 198);
+    border-left: 35px solid rgb(224, 15, 15);
+    background-image: url(../assets/img/road.jpg);
+    background-size: 100%; 
+    background-size: cover;
+    margin: 0px auto;
+    padding: 30px 30px 100px 30px ;        
+    } 
+
+    
+          h1 {
+    font-family: 'Alfa Slab One', cursive;
+    color: rgba(220, 16, 16, 0.76);
+    line-height: 33px;
+    font-size: 32px;   
+}     
+
+.colortext {
+    color: red; 
+  } 
+  body {
+    margin: 0px;
+}
+* {
+    box-sizing: border-box;
+} 
+#white{
+    background-color: white; 
+} 
+.one{
+    font-family: 'Carter One', cursive;
+    color: white;
+    line-height: 18px;
+
+} 
+.two{
+    font-family: 'Cairo', sans-serif;
+    color: white ;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 24px;
+} 
+.three{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-weight: 600;    
+    font-size: 17px;
+} 
+.four{
+    font-family: 'DM Mono';
+    color: rgb(255, 110, 7) ;
+    font-size: 19px;
+    line-height: 14px;
+    font-weight: 500;
+    }   
+.five{
+    font-family: 'Cookie', cursive;
+    color: white;
+    font-size: 32px;
+}  
+.seven{
+    font-family: 'Mali', cursive;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: right;
+}  
+#white{
+    font-family: 'Caveat', cursive;
+    color: black;
+    font-weight: 600;
+    font-size: 17px; 
+    transform: rotate(-9deg);
+} 
+body{
+    margin: 0px;
+}
